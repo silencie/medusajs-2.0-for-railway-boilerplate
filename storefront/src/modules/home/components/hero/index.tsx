@@ -20,7 +20,7 @@ const Hero = () => {
           </Heading>
         </span>
         <a
-          href="https://funkyton.com/medusajs-2-0-is-finally-here/"
+          href="https://www.facebook.com/bktdigitalsolution"
           target="_blank"
         >
           <h1 style={{ textDecoration: "underline" }}>
